@@ -8,3 +8,6 @@ exists :- this method is used for to check the value is exist or not and that re
 
 
 del:- this method is used for delete the value;
+
+
+ttl :- check the ttl in redis key;
